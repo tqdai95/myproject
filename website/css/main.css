@@ -1,0 +1,42 @@
+body{
+   background: #c0ddef;
+}
+.menuleft{
+    width: 20%;
+    float: left;
+}
+.menumiddle{
+    background: #f8f8f8;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+    background: #000;
+}
+.wrapper{
+ background: #ddeef6;
+    padding: none;
+    border-radius: 5px;
+}
+.input-group{
+    float: left;
+    margin: 5px;
+}
+.col-md-7{
+    padding: 0px;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    border-radius:10px;
+    box-shadow: 0 0 6px #999;
+}
+.post{
+    background: #fff;
+}
+.td-text{
+    border-bottom: 1px solid rgba(0,0,0,0.3);
+}
+.list-group-item{
+    background: transparent;
+    color: #3185a7;
+    font-weight: bold;
+    border: none;
+    border-bottom: 1px solid #ddd;
+}
